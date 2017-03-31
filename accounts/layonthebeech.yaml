@@ -1,0 +1,11 @@
+email: beecherp@gmail.com
+fullname: 'Pat Beecher'
+title: Administrator
+state: enabled
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$7ZFkIZPiRHp3qBc2EVrYuOmpdrY/MyivAvpm71/Lq/yH7kPGxuJN6
